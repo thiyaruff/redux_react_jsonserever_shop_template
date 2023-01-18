@@ -1,0 +1,19 @@
+{
+  "prods": [
+    {
+      "desc": "burger",
+      "price": "50",
+      "id": 4
+    },
+    {
+      "desc": "pizza",
+      "price": "40",
+      "id": 5
+    },
+    {
+      "desc": "kola",
+      "price": "5",
+      "id": 6
+    }
+  ]
+}
